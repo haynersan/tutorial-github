@@ -1,3 +1,5 @@
 Fundamentos de GIT
 
 Entendendo o funcionamento do GIT
+
+Testando as versoes
